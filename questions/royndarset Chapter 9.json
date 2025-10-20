@@ -27,7 +27,7 @@
     {
         "question": "______ allows a portion of a virtual address space to be logically associated with a file.",
         "options": ["Memory-mapping", "Shared memory", "Slab allocation", "Locality of reference"],
-        "answer": 0
+        "answer": 3
     },
     {
         "question": "Systems in which memory access times vary significantly are known as __________.",
