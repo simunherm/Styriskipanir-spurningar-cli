@@ -65,7 +65,7 @@
             "The pipe is part of the code and children inherit code from their parents.",
             "A pipe is treated as a file descriptor and child processes inherit open file descriptors from their parents.",
             "The STARTUPINFO structure establishes this sharing.",
-            "All IPC facilities are shared between the parent and child processes. 3.10 A process that has terminated, but whose parent has not yet called wait(), is known as a"
+            "All IPC facilities are shared between the parent and child processes."
         ],
         "answer": 1
     },

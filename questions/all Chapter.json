@@ -112,7 +112,7 @@
     {
         "question": "Virtualization software is one member of a class that differs from emulation.",
         "options": ["True", "False"],
-        "answer": 1
+        "answer": 0
     },
     {
         "question": "A virtual machine can be switched like a process in the operating system.",
@@ -870,7 +870,7 @@
         "answer": 1
     },
     {
-        "question": "According to Amdahl's Law, what is the speedup gain for an application that is 60",
+        "question": "According to Amdahl's Law, what is the speedup gain for an application that is 60% paralizeble on two processors",
         "options": ["1.82", ".7", ".55", "1.43"],
         "answer": 3
     },

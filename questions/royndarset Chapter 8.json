@@ -15,7 +15,7 @@
             "physical address",
             "logical address",
             "post relocation register address",
-            "Memory-Management Unit (MMU) generated address 8.3 Suppose a program is operating with execution-time binding and the physical address generated is 300. The relocation register is set to 100. What is the corresponding logical address?"
+            "Memory-Management Unit (MMU) generated address"
         ],
         "answer": 1
     },

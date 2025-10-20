@@ -112,7 +112,7 @@
     {
         "question": "Virtualization software is one member of a class that differs from emulation.",
         "options": ["True", "False"],
-        "answer": 1
+        "answer": 0
     },
     {
         "question": "A virtual machine can be switched like a process in the operating system.",
